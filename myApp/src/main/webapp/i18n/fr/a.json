@@ -1,0 +1,24 @@
+{
+  "myApp": {
+    "a": {
+      "home": {
+        "title": "AS",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau A",
+        "createOrEditLabel": "Créer ou éditer un A",
+        "notFound": "Aucun A trouvé"
+      },
+      "created": "Un nouveau A a été créé avec l'identifiant {{ param }}",
+      "updated": "Le A avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le A avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le A {{ id }} ?"
+      },
+      "detail": {
+        "title": "A"
+      },
+      "id": "ID",
+      "b": "B"
+    }
+  }
+}
