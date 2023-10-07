@@ -1,6 +1,7 @@
 {
   "generator-jhipster": {
     "applicationType": "microservice",
+    "appsFolders": ["myApp", "myApp1", "myApp2"],
     "authenticationType": "jwt",
     "baseName": "maarc",
     "blueprints": [],
@@ -12,6 +13,7 @@
     "databaseType": "sql",
     "devDatabaseType": "h2Disk",
     "devServerPort": 9060,
+    "directoryPath": "./",
     "enableHibernateCache": false,
     "enableSwaggerCodegen": false,
     "enableTranslation": true,

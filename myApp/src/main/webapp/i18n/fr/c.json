@@ -1,0 +1,23 @@
+{
+  "myApp": {
+    "c": {
+      "home": {
+        "title": "CS",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau C",
+        "createOrEditLabel": "Créer ou éditer un C",
+        "notFound": "Aucun C trouvé"
+      },
+      "created": "Un nouveau C a été créé avec l'identifiant {{ param }}",
+      "updated": "Le C avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le C avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le C {{ id }} ?"
+      },
+      "detail": {
+        "title": "C"
+      },
+      "id": "ID"
+    }
+  }
+}

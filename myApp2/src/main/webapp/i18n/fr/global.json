@@ -1,0 +1,9 @@
+{
+  "global": {
+    "menu": {
+      "entities": {
+        "myApp2C": "C"
+      }
+    }
+  }
+}

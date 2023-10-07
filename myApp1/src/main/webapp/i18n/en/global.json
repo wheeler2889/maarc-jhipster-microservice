@@ -1,0 +1,10 @@
+{
+  "global": {
+    "menu": {
+      "entities": {
+        "myApp1A": "A",
+        "myApp1B": "B"
+      }
+    }
+  }
+}

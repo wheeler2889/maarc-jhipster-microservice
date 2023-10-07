@@ -1,0 +1,20 @@
+{
+  "applications": ["myApp", "myApp1"],
+  "changelogDate": "20231007133840",
+  "clientRootFolder": "myApp1",
+  "databaseType": "sql",
+  "entityTableName": "a",
+  "fields": [],
+  "microserviceName": "myApp1",
+  "name": "A",
+  "relationships": [
+    {
+      "otherEntityName": "b",
+      "otherEntityRelationshipName": "a",
+      "relationshipName": "b",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "searchEngine": "no"
+}

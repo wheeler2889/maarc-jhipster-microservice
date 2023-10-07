@@ -1,0 +1,10 @@
+{
+  "applications": ["myApp", "myApp2"],
+  "changelogDate": "20231007134040",
+  "databaseType": "sql",
+  "entityTableName": "c",
+  "fields": [],
+  "name": "C",
+  "relationships": [],
+  "searchEngine": "no"
+}
